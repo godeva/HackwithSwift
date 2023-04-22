@@ -16,6 +16,8 @@ Compiled list of resources to help familiarize users with IOS Development
 
 **Hacking with Swift**
 * **[https://www.hackingwithswift.com/100/swiftui](https://www.hackingwithswift.com/100/swiftui)**
+* **[https://www.hackingwithswift.com/articles/242/learn-essential-swift-in-one-hour
+](https://www.hackingwithswift.com/articles/242/learn-essential-swift-in-one-hour)**
 
 **NavigationPath Swift**
 * **[https://developer.apple.com/documentation/swiftui/navigationpath](https://developer.apple.com/documentation/swiftui/navigationpath)**
