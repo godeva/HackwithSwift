@@ -34,6 +34,9 @@ Compiled list of resources to help familiarize users with IOS Development
 * **[https://blogs.halodoc.io/deep-linking-using-url-scheme-in-ios/](https://blogs.halodoc.io/deep-linking-using-url-scheme-in-ios/)**
 
 
+**Tools for accelerating iOS development**
+* **[https://blog.bredvid.no/tools-for-accelerating-ios-development-c3c87087e9f6](https://blog.bredvid.no/tools-for-accelerating-ios-development-c3c87087e9f6)**
+
 
 **Swift UI Introduction by Apple**
 * **[https://developer.apple.com/tutorials/swiftui](https://developer.apple.com/tutorials/swiftui)**
