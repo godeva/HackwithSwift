@@ -6,6 +6,7 @@ Compiled list of resources to help familiarize users with IOS Development
 	- [Tools](#Tools)
 	- [Frameworks](#Frameworks)
  	- [News](#News)
+ 	- [FAQ](#FAQ)
   
   
   
@@ -49,3 +50,13 @@ Compiled list of resources to help familiarize users with IOS Development
 ### **Frameworks**
 
 ### **News**
+
+### **FAQ**
+Where can I see my project directory in Xcode?
+
+To see your project directory in Xcode, you can follow these steps:
+
+Open Xcode and open your project.
+Use the "Show in Finder" option to open the project directory in Finder. 
+-To do this, right-click on your project's name in the Project navigator and select "Show in Finder" from the contextual menu.
+-Select get info to see full directory path under "where"
