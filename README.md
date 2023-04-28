@@ -47,6 +47,12 @@ Compiled list of resources to help familiarize users with IOS Development
 **Vapor Database built for swift **
 * **[https://vapor.codes/](https://vapor.codes/)**
 
+**Highcharts that dynamically change **
+* **[https://github.com/highcharts/highcharts](https://github.com/highcharts/highcharts)**
+
+**Realm Database thats super fast on mobile **
+* **[https://realm.io/](https://realm.io/)**
+
 ### **Frameworks**
 
 ### **News**
