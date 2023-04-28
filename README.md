@@ -8,7 +8,7 @@ Compiled list of resources to help familiarize users with IOS Development
  	- [News](#News)
  	- [FAQ](#FAQ)
   
-  
+* **[]()**
   
 ### **Learning Resources**
 
@@ -69,6 +69,10 @@ Open Xcode and open your project.
 Use the "Show in Finder" option to open the project directory in Finder. 
 -To do this, right-click on your project's name in the Project navigator and select "Show in Finder" from the contextual menu.
 -Select get info to see full directory path under "where"
+
+------------------
+what is *.pbxproj merge = union
+Tells Git that whenever there is a merge conflict Git should merge automatically and take both sides of the conflict. 
 
 ------------------
 
